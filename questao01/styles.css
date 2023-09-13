@@ -1,0 +1,20 @@
+.quad{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    margin: 10px;
+    
+}
+.quadred{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+    
+}
+
+.teste{
+    display: flex;
+}
