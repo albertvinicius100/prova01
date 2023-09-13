@@ -1,1 +1,1 @@
-O == é usado para comparação de váriaveis independentes do tipo e o === significa que é exatamente igual, mesmo tipo, mesmo elemento.
+O == é o igual usado para comparação de váriaveis independentes do tipo e o === é que é exatamente igual, mesmo tipo, mesmo elemento.
